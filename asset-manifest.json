@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/kyrios.github.io/static/css/main.c528187f.css",
-    "main.js": "/kyrios.github.io/static/js/main.760428ee.js",
+    "main.js": "/kyrios.github.io/static/js/main.a9560df0.js",
+    "static/media/dashboard-dark.png": "/kyrios.github.io/static/media/dashboard-dark.1c995306e840f2a6077e.png",
+    "static/media/kyrios-logo.png": "/kyrios.github.io/static/media/kyrios-logo.fa7aecdd682783fe0f8b.png",
+    "static/media/dashboard.png": "/kyrios.github.io/static/media/dashboard.326359bd587ea786187d.png",
+    "static/media/dashboard-pic.jpeg": "/kyrios.github.io/static/media/dashboard-pic.649275b631c4f9393c33.jpeg",
+    "static/media/validation.jpeg": "/kyrios.github.io/static/media/validation.3b56ff11b327d6d5af9e.jpeg",
+    "static/media/safety.jpeg": "/kyrios.github.io/static/media/safety.be68b7975ca2b72a4bf5.jpeg",
     "index.html": "/kyrios.github.io/index.html",
     "main.c528187f.css.map": "/kyrios.github.io/static/css/main.c528187f.css.map",
-    "main.760428ee.js.map": "/kyrios.github.io/static/js/main.760428ee.js.map"
+    "main.a9560df0.js.map": "/kyrios.github.io/static/js/main.a9560df0.js.map"
   },
   "entrypoints": [
     "static/css/main.c528187f.css",
-    "static/js/main.760428ee.js"
+    "static/js/main.a9560df0.js"
   ]
 }
